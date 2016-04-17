@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 08046db92ba2dbf46ade639dcfe296db
+timeCreated: 1460839920
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: STUFF_0
+    21300002: STUFF_1
+    21300004: STUFF_2
+    21300006: STUFF_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: STUFF_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 618
+        width: 799
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 133.28, y: 26.519989}
+        - {x: 175.28, y: 34.51999}
+        - {x: 205.28, y: 52.51999}
+        - {x: 216.28, y: 70.51999}
+        - {x: 186.28, y: 71.51999}
+        - {x: 217.28, y: 98.51999}
+        - {x: 256.28, y: 131.51999}
+        - {x: 256.28, y: 138.51999}
+        - {x: 245.28, y: 141.51999}
+        - {x: 157.28, y: 154.51999}
+        - {x: 124.28, y: 165.51999}
+        - {x: 124.28, y: 173.51999}
+        - {x: 89.28, y: 173.51999}
+        - {x: 76.28, y: 160.51999}
+        - {x: 31.279999, y: 163.51999}
+        - {x: -88.72, y: 160.51999}
+        - {x: -142.72, y: 172.51999}
+        - {x: -164.72, y: 162.51999}
+        - {x: -182.72, y: 146.51999}
+        - {x: -250.72, y: 125.51999}
+        - {x: -255.72, y: 117.51999}
+        - {x: -255.72, y: 102.51999}
+        - {x: -223.72, y: 53.51999}
+        - {x: -165.72, y: -1.480011}
+        - {x: -135.72, y: -38.48001}
+        - {x: -125.72, y: -48.48001}
+        - {x: -66.72, y: -111.48001}
+        - {x: -68.72, y: -157.48001}
+        - {x: -62.72, y: -171.48001}
+        - {x: -61.72, y: -172.48001}
+        - {x: -52.72, y: -172.48001}
+        - {x: -20.720001, y: -115.48001}
+        - {x: 32.28, y: -59.48001}
+        - {x: 78.28, y: -17.480011}
+    - name: STUFF_1
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 848
+        width: 185
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.899963, y: 92.21997}
+        - {x: -3.1000366, y: 101.21997}
+        - {x: -20.100037, y: 101.21997}
+        - {x: -25.100037, y: 97.21997}
+        - {x: -59.100037, y: 35.21997}
+        - {x: -59.100037, y: -62.78003}
+        - {x: -6.1000366, y: -99.78003}
+        - {x: 34.899963, y: -99.78003}
+        - {x: 59.899963, y: -58.78003}
+        - {x: 59.899963, y: 14.219971}
+        - {x: 48.899963, y: 51.21997}
+    - name: STUFF_2
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 857
+        width: 390
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123.23999, y: 60.97998}
+        - {x: 107.23999, y: 75.97998}
+        - {x: 49.23999, y: 101.97998}
+        - {x: 39.23999, y: 103.97998}
+        - {x: -37.76001, y: 103.97998}
+        - {x: -71.76001, y: 89.97998}
+        - {x: -89.76001, y: 69.97998}
+        - {x: -119.76001, y: 9.97998}
+        - {x: -113.76001, y: -20.02002}
+        - {x: -124.76001, y: -79.02002}
+        - {x: -124.76001, y: -95.02002}
+        - {x: -113.76001, y: -99.02002}
+        - {x: -80.76001, y: -103.02002}
+        - {x: 84.23999, y: -103.02002}
+        - {x: 111.23999, y: -96.02002}
+        - {x: 112.23999, y: -24.02002}
+        - {x: 125.23999, y: -2.0200195}
+        - {x: 125.23999, y: 52.97998}
+    - name: STUFF_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 476
+        width: 875
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -280.14, y: 28.639984}
+        - {x: -280.14, y: -15.360016}
+        - {x: -269.14, y: -21.360016}
+        - {x: -54.140015, y: -25.360016}
+        - {x: 99.859985, y: -23.360016}
+        - {x: 138.85999, y: -27.360016}
+        - {x: 277.86, y: -27.360016}
+        - {x: 280.86, y: -20.360016}
+        - {x: 280.86, y: 10.639984}
+        - {x: 199.85999, y: 28.639984}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
